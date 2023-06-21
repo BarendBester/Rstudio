@@ -1,4 +1,4 @@
-# Rstudio
+# R-studio
 >Projects created with R
 Contains some examples of R scripts with graphs
 > GGPLOT
